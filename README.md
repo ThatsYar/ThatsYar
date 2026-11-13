@@ -5,7 +5,7 @@
 
 # About Me:
 I am Russian and my irl name is ![???](https://img.shields.io/badge/secret) <br>
-Also have my $${\color{red}\text{Youtube channel}}$$ but last posted there a long ago. (Yes no link) <br>
+Also have my $${\color{red}\text{Youtube channel}}$$ but last posted there a long ago. [yt thannel](https://www.youtube.com/@ThatsYar/videos) <br>
 Somtimes making mods and posting to modrinth
 <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaroslav.dvd@gmail.com) 
 
