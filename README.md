@@ -5,12 +5,12 @@
 
 # About Me:
 I am Russian and my irl name is ![???](https://img.shields.io/badge/secret) <br>
-Also have my $${\color{red}\text{Youtube channel}}$$ but last posted there a long ago. [yt thannel](https://www.youtube.com/@ThatsYar/videos) <br>
+Also have my $${\color{red}\text{Youtube channel}}$$ but last posted there a long ago. [Clickme](https://www.youtube.com/@ThatsYar/videos) <br>
 Somtimes making mods and posting to modrinth
 <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaroslav.dvd@gmail.com) 
 
 
-### <br>**Currently working:** **At my Minecraft server mod and custom launcher**
+### <br>**Currently working:** **Thinking of ideas for my minecraft mods**
 
 
 ## ⌨️ Launguages I know:
@@ -19,6 +19,7 @@ Somtimes making mods and posting to modrinth
 # My Projects:
 ### ![Twitch Chat Simulator](https://github.com/Yar-developer7788/TwitchChatSimulator)
 ### ![smth like logger](https://github.com/Yar-developer7788/colorful-logger)
+### ![Nvim uncomment plugin](https://github.com/ThatsYar/comment-remover.nvim)
 
 
 ---
