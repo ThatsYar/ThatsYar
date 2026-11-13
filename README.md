@@ -1,7 +1,7 @@
 # Hello, I am ThatsYar
-![](https://github-readme-stats.vercel.app/api?username=Yar-developer7788&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yar-developer7788&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yar-developer7788&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Yar-developer7788&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Github Stats](https://nirzak-streak-stats.vercel.app/?user=Yar-developer7788&theme=onedark&hide_border=false)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yar-developer7788&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # About Me:
 I am Russian and my irl name is ![???](https://img.shields.io/badge/secret) <br>
